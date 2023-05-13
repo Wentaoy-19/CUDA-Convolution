@@ -1,4 +1,4 @@
-# ECE408/CS483 Final Project
+# CUDA LeNet Project in Applied Parallel Programming
 
 ## Introduction
 
